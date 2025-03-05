@@ -1,5 +1,4 @@
-def greet():
-        def greet():  
-                """Prints a greeting message."""
-        print("Hello, Python Students!") 
+def greet(): 
+        """Prints a greeting message."""
+print("Hello, Python Students!") 
 greet()
